@@ -1,0 +1,16 @@
+@import "bootstrap";
+//= require jquery3
+//= require popper
+//= require bootstrap-sprockets
+
+.alert-danger {
+  border-radius: 100px;
+  font-family: Inconsolata;
+  font-size: 10pt;
+  margin-left: -20%;
+  margin-right: 20%;
+}
+
+body {
+  margin-left: 40%;
+}
